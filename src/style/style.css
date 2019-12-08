@@ -1,0 +1,18 @@
+form label, form input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%
+  }
+  
+  form input {
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+  }
+  .button {
+    background-color: rgb(255, 115, 0);
+    border-color: #3ac162;
+    font-weight: bold;
+    padding: 15px 15px;
+    color: white;
+    width: 90%
+  }
